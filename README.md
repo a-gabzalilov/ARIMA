@@ -1,2 +1,2 @@
 # ARIMA
-ARIMA realisation. For more detail information search readme.txt
+Laboratory in econometrics. ARIMA realisation. For more detail information search readme.txt
